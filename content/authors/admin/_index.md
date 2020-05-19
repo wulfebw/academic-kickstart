@@ -23,7 +23,7 @@ bio: ""
 interests:
 - Decision Making Under Uncertainty 
 - Reinforcement Learning
-- Machine Learning
+- Imitation Learning
 
 education:
   courses:
@@ -71,6 +71,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<p class="about-p">
+I'm currently a research engineer working on decision making and prediction for autonomous driving at the <a href="">Toyota Research Institute</a>.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I previously completed a master's degree in computer science at Stanford, where I focused on reinforcement learning and decision making as part of the <a href="http://web.stanford.edu/group/sisl/cgi-bin/wordpress/people/" class="md-link">Stanford Intelligent Systems Laboratory</a> advised by <a class="md-link" href="http://mykel.kochenderfer.com/">Mykel Kochenderfer</a>.
+
+During my master's, I interned at Adobe Research where I was advised by <a href="https://www.linkedin.com/in/hung-bui-2a9b244" class="md-link">Hung Bui</a>. We performed research around imitation learning and its applications in artistic domains.
+
+As an undergraduate student I studied computer science at Vanderbilt University, where I performed autonomous UAV research with my advisor <a href="http://engineering.vanderbilt.edu/bio/julie-adams" class="md-link">Julie Adams</a> as part of the <a href="http://eecs.vanderbilt.edu/research/hmtl/wp/" class="md-link">Human-Machine Teaming Lab</a>. I also worked with <a href="http://engineering.vanderbilt.edu/bio/eugene-vorobeychik" class="md-link">Eugene Vorobeychik</a> on a project dealing with social interaction analysis, which is how I originally became interested in machine learning.
+
