@@ -31,9 +31,9 @@ projects: []
 - This project consists of building a robotic arm with visual perception, and learning to control it through reinforcement and imitation learning 
 - Here's the breakdown of the task:
 
-1. [LED control](https://wulfebw.github.io/blog/rl/robotics/led-control)
-2. [Single-servo control](https://wulfebw.github.io/blog/rl/robotics/single-servo-control)
-3. [Two-link programmatic control](https://wulfebw.github.io/blog/rl/robotics/two-link-programmatic-control)
+1. [LED control](/post/01-led-control)
+2. [Single-servo control](/post/02-single-servo-control)
+3. [Two-link programmatic control](/post/03-two-link-programmatic-control)
 4. Two-link manual control
 5. Two-link imitation control
 6. Perception
