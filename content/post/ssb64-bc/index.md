@@ -3,7 +3,7 @@
 
 title: "Super Smash Bros. 64 AI: Behavioral Cloning"
 subtitle: ""
-summary: "Writeup on Super Smash Bros. 64 AI developed using behavioral cloning."
+summary: "Write-up on Super Smash Bros. 64 AI developed using behavioral cloning."
 authors: []
 tags: []
 categories: [imitation learning, ssb64]

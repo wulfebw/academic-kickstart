@@ -72,7 +72,7 @@ user_groups:
 ---
 
 <p class="about-p">
-I'm currently a research engineer working on decision making and prediction for autonomous driving at the <a href="">Toyota Research Institute</a>.
+I'm currently working on decision making and prediction for autonomous driving at the <a href="">Toyota Research Institute</a>.
 
 I previously completed a master's degree in computer science at Stanford, where I focused on reinforcement learning and decision making as part of the <a href="http://web.stanford.edu/group/sisl/cgi-bin/wordpress/people/" class="md-link">Stanford Intelligent Systems Laboratory</a> advised by <a class="md-link" href="http://mykel.kochenderfer.com/">Mykel Kochenderfer</a>.
 
