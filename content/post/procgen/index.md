@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Everything I tried and learned in the NeurIPS 2020 Procgen Competition"
+title: "NeurIPS 2020 Procgen Competition"
 subtitle: ""
-summary: ""
+summary: "What I tried and learned"
 authors: []
 tags: []
 categories: [reinforcement learning]
