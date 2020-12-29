@@ -7,3 +7,21 @@ See the css in themes/academic/assests/scss/academic/... for what you might want
 article {
     font-size: 0.8rem;
 }
+
+.article p {
+    margin-bottom: 0rem;   
+}
+
+.img-sm {
+    max-width: 30em;
+}
+
+.article-style figure {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    
+}
+
+.article h5 {
+    font-weight: 500;
+}
