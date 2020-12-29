@@ -382,7 +382,6 @@ This section covers some miscellaneous lessons learned
    - Value optimization
      + target values are not normalized
        * Due to a lack of reward normalization
-     
 2. Model
    - Forgets previously-learned information, or learns slowly
      + Limited model capacity
@@ -406,7 +405,6 @@ This section covers some miscellaneous lessons learned
        * Form of the model insufficient (e.g., should use RNN instead)
      + Previous action required 
      + Timestep required
-
 3. Optimization
    - Suboptimal optimizer
      + SGD variants
@@ -414,7 +412,6 @@ This section covers some miscellaneous lessons learned
      + Clipping by global norm slows down learning too much
      + Clipping elementwise prevents learning optimal behavior
    - Learning rate is too high
-
 4. Generalization
    - Lack of invariance to irrelevant changes
    - Invariance too strong
