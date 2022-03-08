@@ -79,21 +79,8 @@ docs/_build/
 *.weights
 *.meta
 *.p
-*.csv
 *checkpoint
-*.key
-*.npz
-*.dat
-*.jld
-*.idx
-*.png
-*.h5
-*.dat
-*.mat
-*.zip
-*.jld
-*.txt
-*.csv
+
 
 # notebook checkpoints
 *checkpoint*
@@ -129,8 +116,6 @@ CTestTestfile.cmake
 *events*
 
 # media
-*.pdf
-*.gif
 *.aux
 *.tex
 
