@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Autonomous Agents and Multi-Agent Systems"
-publication_short: "AAMAS"
+publication_short: "AAMAS 2018"
 
 abstract: "Advanced collision avoidance and driver hand-off systems can benefit from the ability to accurately predict, in real time, the probability a vehicle will be involved in a collision within an intermediate horizon of 10 to 20 seconds. The rarity of collisions in real-world data poses a significant challenge to developing this capability because, as we demonstrate empirically, intermediate-horizon risk prediction depends heavily on high-dimensional driver behavioral features. As a result, a large amount of data is required to fit an effective predictive model. In this paper, we assess whether simulated data can help alleviate this issue. Focusing on highway driving, we present a three-step approach for generating data and fitting a predictive model capable of real-time prediction. First, high-risk automotive scenes are generated using importance sampling on a learned Bayesian network scene model. Second, collision risk is estimated through Monte Carlo simulation. Third, a neural network domain adaptation model is trained on real and simulated data to address discrepancies between the two domains. Experiments indicate that simulated data can mitigate issues resulting from collision rarity, thereby improving risk prediction in real-world data."
 

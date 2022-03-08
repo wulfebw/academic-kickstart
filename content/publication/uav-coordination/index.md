@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Digital Avionics Systems"
-publication_short: "DASC"
+publication_short: "DASC 2016"
 
 abstract: "The safe integration of unmanned aircraft into the airspace requires reliable systems to keep aircraft separated. Unmanned aircraft will likely have to use horizontal maneuvers, in contrast with manned aircraft collision avoidance systems, which use only vertical maneuvers. Coordination of horizontal maneuvers is much less straightforward than vertical maneuvers because in some situations it is better for both aircraft to maneuver in the same direction and in other situations it is better to maneuver in opposite directions. This paper uses dynamic programming to generate a coordination scheme that is represented as a lookup table. Different aircraft that may have different collision avoidance systems can use this table to produce complementary maneuvers. The robustness of the table to various policies is measured in terms of safety and efficiency. The empirical results suggest that a coordination table can improve safety for encounters involving different collision avoidance systems."
 
